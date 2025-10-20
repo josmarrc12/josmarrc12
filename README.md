@@ -34,7 +34,7 @@
 ![Jetpack Compose](https://img.shields.io/badge/Jetpack_Compose-239120?style=for-the-badge&logo=android&logoColor=white)
 ![Laravel](https://img.shields.io/badge/Laravel-%23FF2D20.svg?style=for-the-badge&logo=laravel&logoColor=white)
 ![Ruby on Rails](https://img.shields.io/badge/Ruby_on_Rails-CC0000?style=for-the-badge&logo=rubyonrails&logoColor=white)
-![Razor](https://img.shields.io/badge/Razor-512BD4?style=for-the-badge&logo=dotnet&logoColor=white)
+![BLazor](https://img.shields.io/badge/BLazor-512BD4?style=for-the-badge&logo=dotnet&logoColor=white)
 
 
 
